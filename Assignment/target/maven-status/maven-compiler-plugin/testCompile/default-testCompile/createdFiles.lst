@@ -1,0 +1,5 @@
+CRUDOperation\UserCRUDTest.class
+CRUDOperation\postReq.class
+ApiUtils\Utils.class
+ApiUtils\ExtentReportManager.class
+PojoClasses\User.class
